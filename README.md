@@ -16,3 +16,40 @@
     <li>Teacher Profile</li>
 </ul>
 
+## Technology
+<ul>
+    <li>Laravel</li>
+    <li>PHP</li>
+    <li>MySQL</li>
+    <li>Bootstrap</li>
+    <li>JavaScript</li>
+</ul>
+
+## ScreenShot
+
+<table>
+    <thead>
+        <tr>
+            <th>1</th>
+            <th>2</th>
+        </tr>
+    </thead>
+</table>
+
+<table>
+    <thead>
+        <tr>
+            <th>1</th>
+            <th>2</th>
+        </tr>
+    </thead>
+</table>
+
+<table>
+    <thead>
+        <tr>
+            <th>1</th>
+            <th>2</th>
+        </tr>
+    </thead>
+</table>
