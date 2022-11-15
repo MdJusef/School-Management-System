@@ -4,6 +4,15 @@
 
 ## Features of School Management System
 <ul>
-    <li></li>
+    <li>Login System</li>
+    <li>Manage Role</li>
+    <li>Add Teacher</li>
+    <li>Manage Teacher</li>
+    <li>Manage Student</li>
+    <li>Add Course</li>
+    <li>Manage Course</li>
+    <li>Student Admission</li>
+    <li>Student Profile</li>
+    <li>Teacher Profile</li>
 </ul>
 
