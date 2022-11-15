@@ -30,8 +30,12 @@
 <table>
     <thead>
         <tr>
-            <th>1</th>
-            <th>2</th>
+            <th>
+                <img src="screenshots/admin_register.png" alt="admin login ss">
+            </th>
+            <th>
+                <img src="screenshots/Teacher_login.png" alt="teacher login ss">
+            </th>
         </tr>
     </thead>
 </table>
@@ -39,8 +43,12 @@
 <table>
     <thead>
         <tr>
-            <th>1</th>
-            <th>2</th>
+            <th>
+                <img src="screenshots/student_login.png" alt="student login ss">
+            </th>
+            <th>
+                <img src="screenshots/student_register.png" alt="student register ss">
+            </th>
         </tr>
     </thead>
 </table>
@@ -48,8 +56,38 @@
 <table>
     <thead>
         <tr>
-            <th>1</th>
-            <th>2</th>
+            <th>
+                <img src="screenshots/add_teacher.png" alt="add teacher ss">
+            </th>
+            <th>
+                <img src="screenshots/manage_teacher.png" alt="manage teacher ss">
+            </th>
+        </tr>
+    </thead>
+</table>
+
+<table>
+    <thead>
+        <tr>
+            <th>
+                <img src="screenshots/homepage.png" alt="Homepage ss">
+            </th>
+            <th>
+                <img src="screenshots/homepage2.png" alt="Homepage ss">
+            </th>
+        </tr>
+    </thead>
+</table>
+
+<table>
+    <thead>
+        <tr>
+            <th>
+                <img src="screenshots/popular_courses_section.png" alt="courses ss">
+            </th>
+            <th>
+                <img src="screenshots/manage_student.png" alt="manage student ss">
+            </th>
         </tr>
     </thead>
 </table>
